@@ -1,7 +1,7 @@
 .navigation{
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
-    width: 68.25%; /* Full width */
+    width: 68%; /* Full width */
     background-color: #0124CC;
 
 }
