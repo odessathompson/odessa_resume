@@ -2,7 +2,7 @@
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 68.25%; /* Full width */
-    background-color: #F6DC68;
+    background-color: #0124CC;
 
 }
 
@@ -11,7 +11,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #F6DC68;
+    background-color: #0124CC;
 }
 
 li {
@@ -28,7 +28,7 @@ li a {
 
 /* Change the link color on hover */
 #plswork a:hover {
-    background-color: #F9E89E;
+    background-color: #5D73DE;
 }
 
 
