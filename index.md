@@ -13,7 +13,7 @@
 				<li id="plswork"><a href="https://odessathompson.github.io/odessa/"> Home </a></li>
   				<li id="plswork"><a href="https://odessathompson.github.io/odessa_graphics-and-media/">Graphics & Media</a></li>
   				<li id="plswork"><a href="contact.asp">About</a></li>
-  				<li id="plswork"><a href="about.asp">Resume</a></li>
+  				<li id="plswork"><a href="https://odessathompson.github.io/odessa_resume/">Resume</a></li>
 			</ul>
 		</nav>
 	</div>
