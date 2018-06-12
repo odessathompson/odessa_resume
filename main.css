@@ -1,0 +1,56 @@
+.navigation{
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 68.25%; /* Full width */
+    background-color: #F6DC68;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F6DC68;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+#plswork a:hover {
+    background-color: #F9E89E;
+}
+
+
+/*changes body*/
+.text.main{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+header{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
