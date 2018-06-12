@@ -23,4 +23,4 @@
 <div class="text.main">
 	<h2 style="font-family: 'Montserrat', sans-serif; font-weight: 200;">Resume</h2>
 	<iframe src="https://docs.google.com/document/d/1TzAaMBRqJgXjeM7PX0FmfZh1uKlzwnDknbMPrYt4--A/edit?usp=sharing" style="width:100%; height:500px; margin: auto;" frameborder="0"></iframe>
-</body>
+
